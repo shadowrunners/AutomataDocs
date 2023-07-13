@@ -28,12 +28,7 @@ export default defineAppConfig({
       fluid: true
     },
     footer: {
-      iconLinks: [
-        {
-          href: 'https://nuxt.com',
-          icon: 'simple-icons:nuxtdotjs'
-        }
-      ]
+      iconLinks: []
     }
   }
 })
