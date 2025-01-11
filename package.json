@@ -13,7 +13,7 @@
     "@nuxt-themes/docus": "^1.15.0",
     "@nuxt/devtools": "^1.1.5",
     "@nuxt/eslint-config": "^0.2.0",
-    "@nuxtjs/plausible": "^0.2.4",
+    "@nuxtjs/plausible": "^1.2.0",
     "@types/node": "^22.10.5",
     "eslint": "^8.57.0",
     "nuxt": "^3.11.1"
